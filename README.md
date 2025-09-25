@@ -1,1 +1,3 @@
-Trying to learn how to use / interact with APIs using a weather app API.
+Coursera module learning to use Git Hub
+
+R. Gourgeot
